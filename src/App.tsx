@@ -1,7 +1,7 @@
 import React from 'react';
 import { PeoplePage } from './components/PeoplePage';
 import { Navbar } from './components/Navbar';
-
+import 'react-router-dom';
 import './App.scss';
 
 export const App = () => {
