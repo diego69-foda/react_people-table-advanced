@@ -14,7 +14,7 @@ export const Navbar = () => {
           <a className="navbar-item" href="#/">
             Home
           </a>
-          </route>
+          </Route>
 
           <Route path="/people">
           <a
@@ -24,7 +24,7 @@ export const Navbar = () => {
           >
             People
           </a>
-          </route>
+          </Route>
         </div>
       </div>
     </nav>
